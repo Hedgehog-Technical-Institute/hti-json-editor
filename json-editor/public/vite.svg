@@ -1,0 +1,11 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <title>Unused</title>
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke-width="0" id="svg_1" height="25" width="25" y="0" x="0" stroke="#000" fill="#000000"/>
+  <rect stroke-width="0" id="svg_2" height="25.40137" width="25.63073" y="24.84674" x="25" stroke="#000" fill="#000000"/>
+  <rect stroke-width="0" id="svg_3" height="25" width="25" y="0" x="25" stroke="#000" fill="#ff00ff"/>
+  <rect stroke-width="0" id="svg_4" height="25" width="25" y="24.9255" x="0" stroke="#000" fill="#ff00ff"/>
+ </g>
+</svg>
